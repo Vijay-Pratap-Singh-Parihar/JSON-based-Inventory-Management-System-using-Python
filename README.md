@@ -4,7 +4,7 @@
 2. New Inventory can be added
 3. Purchase can be done
 
-We've added 5 Features per product
+I've added 5 Features per product
 1. Product Id
 2. Name of Product
 3. Expiry Date 
